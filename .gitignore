@@ -1,4 +1,4 @@
 .vagrant/
 settings.php
 services.yml
-docroot/sites/files
+docroot/sites/default/files
